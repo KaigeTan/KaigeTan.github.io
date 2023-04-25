@@ -72,14 +72,18 @@ title: Research
 	</li><br>
 </ul>
 
-<h2>Research Implementations</h2>
+<h2>Theses</h2>
 <ul>
 	<li>
-		<b>Title #1</b>: Brief description of this research implementation.<br>
-		<a href=""><div class="color-button">paper</div></a><a href=""><div class="color-button">report</div></a><a href=""><div class="color-button">code</div></a>
+		<a href="https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1371198&dswid=-699"><b>Building verification database and extracting critical scenarios for self-driving car testing on virtual platform</b><br></a>
+		<b>Kaige Tan</b><br>
+		<i>M.Sc. Thesis, KTH Royal Institute of Technology, Stockholm, Sweden</i>, 2019<br>
 	</li><br>
-	<li>
-		<b>Title #2</b>: Brief description of this research implementation.<br>
-		<a href=""><div class="color-button">paper</div></a><a href=""><div class="color-button">report</div></a><a href=""><div class="color-button">code</div></a>
-	</li><br>
+</ul>
+
+<h2>Reviewer</h2>
+<ul>
+	<li>IEEE Transactions on Wireless Communications</li><br>
+	<li>IEEE Robotics and Automation Letters</li><br>
+	<li>The 53rd Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN2023)</li><br>
 </ul>
