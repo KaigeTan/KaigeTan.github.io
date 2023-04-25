@@ -9,10 +9,10 @@ Describe your research interests here.
 <h2>Journal Publications</h2>
 <ul>
 	<li>
-		<b>"A model-based deep reinforcement learning approach to the nonblocking coordination of modular supervisors of discrete event systems"</b><br>
-		<i>Junjun Yang, Kaige Tan</b>, Lei Feng & Zhiwu, Li</i><br>
-		Information Sciences, 2023<br>
-		<a href="https://www.sciencedirect.com/science/article/pii/S0020025523002256?via%3Dihub"><div class="color-button">link</div></a><a href=""><div class="color-button">cite</div></a><a href=""><div class="color-button">code</div></a>
+		[<b>"A model-based deep reinforcement learning approach to the nonblocking coordination of modular supervisors of discrete event systems"</b><br>](https://www.sciencedirect.com/science/article/pii/S0020025523002256?via%3Dihub)
+		<i>Junjun Yang, Kaige Tan</b><br>, Lei Feng & Zhiwu, Li</i><br>
+		Information Sciences</i><br>, 2023<br>, 
+		<a href=""><div class="color-button">cite</div></a><a href=""><div class="color-button">code</div></a>
 	</li><br>
 	<li>
 		<b>"Critical scenario identification for realistic testing of autonomous driving systems"</b><br>
