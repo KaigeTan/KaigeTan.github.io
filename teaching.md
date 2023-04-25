@@ -4,16 +4,43 @@ permalink: /teaching/
 title: Teaching
 ---
 
-Here is a non-exhaustive list of my non-research projects. My research work can be found <a href="/research">here</a>. You can also check out my Github profile <a href="">here</a> for a complete list of my projects.
-
+<h2>Thesis Supervision</h2>
 <ul>
 	<li>
-		<b>Project title #1</b>: Give a brief description of your first project here. You can link the relevant research paper(s), report, code repository and any other detail(s) by editing <i>projects.md</i> file<br>
-		<a href=""><div class="color-button">paper</div></a><a href="project_1.pdf"><div class="color-button">report</div></a><a href=""><div class="color-button">code</div></a>
+		Arvid Bergvall & Pontus Lundman, 
+		<a href="https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1739802&dswid=5671"><b>Construction and Control of a 3-axisAutomated Liquid Sampling UnitUtilizing Hybrid Stepper Motors</b></a>,
+		Master thesis, 2022<br>
 	</li><br>
 	<li>
-		<b>Project title #2</b>: Give a brief description of your second project here. You can link the relevant research paper(s), report, code repository and any other detail(s) by editing <i>projects.md</i> file<br>
-		<a href=""><div class="color-button">paper</div></a><a href="project_1.pdf"><div class="color-button">report</div></a><a href=""><div class="color-button">code</div></a>
+		Annie Farell, 
+		<a href="https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1737383&dswid=8251"><b>Test Rig Development for Real Time Clamping Force Estimation in Threaded Tightenings with Implemented Extended Kalman Filtering</b></a>,
+		Master thesis, 2022<br>
 	</li><br>
+	<li>
+		Charles Brinkley IV & Chieh-Ju Wu, 
+		<a href="https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1707480&dswid=-7518"><b>Controller Design for a Gearbox Oil ConditioningTestbed Through Data-Driven Modeling</b></a>,
+		Master thesis, 2022<br>
+	</li><br>
+	<li>
+		Sumod Nandanwar, 
+		<a href="https://www.diva-portal.org/smash/record.jsf?pid=diva2:1608605"><b>Comparison of computation strategies for realtime prescription map generation on drones</b></a>,
+		Master thesis, 2021<br>
+	</li><br>
+	<li>
+		Chariklia Panteli, 
+		<a href="https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1603391&dswid=6627"><b>Comparison of control strategies for manipulating a Hydrobatic Autonomous Underwater Vehicle</b></a>,
+		Master thesis, 2021<br>
+	</li><br>
+	<li>
+		Mattias Klang, 
+		<a href="https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1599497&dswid=4544"><b>Analysis of CNC Controller Data Based on the Mechanical Characteristics of Machine Tool Feed Drive Systems</b></a>,
+		Master thesis, 2021<br>
+	</li><br>
+</ul>
 
+<h2>Teaching Assistant</h2>
+<ul>
+	<li><a href="https://www.kth.se/student/kurser/kurs/MF2030?l=en"><b>MF2030 Mechatronics Basic Course</b></a></li>
+	<li><a href="https://www.kth.se/student/kurser/kurs/MF2007?l=en"><b>MF2007 Dynamics and Motion Control</b></a></li>
+	<li><a href="https://www.kth.se/student/kurser/kurs/MF2103?l=en"><b>MF2103 Embedded Systems for Mechatronics</b></a></li>
 </ul>
