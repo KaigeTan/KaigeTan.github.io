@@ -6,19 +6,19 @@ title: Research
 
 Describe your research interests here.
 
-<h2>Publications</h2>
+<h2>Journal Publications</h2>
 <ul>
 	<li>
-		<b>"Paper title #1"</b><br>
-		<i>List of authors</i><br>
-		Conference, Year<br>
-		<a href=""><div class="color-button">pdf</div></a><a href=""><div class="color-button">cite</div></a><a href=""><div class="color-button">code</div></a>
+		<b>"A model-based deep reinforcement learning approach to the nonblocking coordination of modular supervisors of discrete event systems"</b><br>
+		<i>Junjun Yang, Kaige Tan</b>, Lei Feng & Zhiwu, Li</i><br>
+		Information Sciences, 2023<br>
+		<a href="https://www.sciencedirect.com/science/article/pii/S0020025523002256?via%3Dihub"><div class="color-button">link</div></a><a href=""><div class="color-button">cite</div></a><a href=""><div class="color-button">code</div></a>
 	</li><br>
 	<li>
-		<b>"Paper title #1"</b><br>
-		<i>List of authors</i><br>
-		Conference, Year<br>
-		<a href=""><div class="color-button">pdf</div></a><a href=""><div class="color-button">cite</div></a><a href=""><div class="color-button">code</div></a>
+		<b>"Critical scenario identification for realistic testing of autonomous driving systems"</b><br>
+		<i>Qunying Song, Kaige Tan</b>, Per Runeson & Stefan Persson</i><br>
+		Software Quality Journal, 2022<br>
+		<a href="https://link.springer.com/article/10.1007/s11219-022-09604-2"><div class="color-button">pdf</div></a><a href=""><div class="color-button">cite</div></a>
 	</li><br>
 </ul>
 
