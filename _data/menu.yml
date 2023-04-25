@@ -4,8 +4,11 @@
 - title: "Research"
   href: "/research/"
 
-- title: "Projects"
-  href: "/projects/"
+- title: "Teaching"
+  href: "/teaching/"
+
+#- title: "Projects"
+#  href: "/projects/"
 
 - title: "Blog"
   href: "/blog/"

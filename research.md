@@ -51,7 +51,7 @@ title: Research
 	<li>
 		<a href="https://www.mdpi.com/2076-3417/9/7/1375"><b>A Contactless Measuring Method of Skin Temperature based on the Skin Sensitivity Index and Deep Learning</b><br></a>
 		Xiaogang Cheng, Bin Yang, <b>Kaige Tan</b>, Erik Isaksson, Liren Li, Anders Hedman, Thomas Olofsson & Haibo Li<br>
-		<i>Applied Sciences</i>, 2022<br>
+		<i>Applied Sciences</i>, 2019<br>
 		<a href=""><div class="color-button">cite</div></a><a href=""><div class="color-button">code</div></a>
 	</li><br>
 </ul>
@@ -83,7 +83,7 @@ title: Research
 
 <h2>Reviewer</h2>
 <ul>
-	<li>IEEE Transactions on Wireless Communications</li><br>
-	<li>IEEE Robotics and Automation Letters</li><br>
-	<li>The 53rd Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN2023)</li><br>
+	<li>IEEE Transactions on Wireless Communications</li>
+	<li>IEEE Robotics and Automation Letters</li>
+	<li>The 53rd Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN2023)</li>
 </ul>
