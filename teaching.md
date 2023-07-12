@@ -9,7 +9,7 @@ title: Teaching
 	<li>
 		Arvid Bergvall & Pontus Lundman, 
 		<a href="https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1739802&dswid=5671"><b>Construction and Control of a 3-axisAutomated Liquid Sampling UnitUtilizing Hybrid Stepper Motors</b></a>,
-		Master thesis, 2022<br>
+		Master thesis, 2022
 	</li><br>
 	<li>
 		Annie Farell, 
@@ -19,22 +19,22 @@ title: Teaching
 	<li>
 		Charles Brinkley IV & Chieh-Ju Wu, 
 		<a href="https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1707480&dswid=-7518"><b>Controller Design for a Gearbox Oil ConditioningTestbed Through Data-Driven Modeling</b></a>,
-		Master thesis, 2022<br>
+		Master thesis, 2022
 	</li><br>
 	<li>
 		Sumod Nandanwar, 
 		<a href="https://www.diva-portal.org/smash/record.jsf?pid=diva2:1608605"><b>Comparison of computation strategies for realtime prescription map generation on drones</b></a>,
-		Master thesis, 2021<br>
+		Master thesis, 2021
 	</li><br>
 	<li>
 		Chariklia Panteli, 
 		<a href="https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1603391&dswid=6627"><b>Comparison of control strategies for manipulating a Hydrobatic Autonomous Underwater Vehicle</b></a>,
-		Master thesis, 2021<br>
+		Master thesis, 2021
 	</li><br>
 	<li>
 		Mattias Klang, 
 		<a href="https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1599497&dswid=4544"><b>Analysis of CNC Controller Data Based on the Mechanical Characteristics of Machine Tool Feed Drive Systems</b></a>,
-		Master thesis, 2021<br>
+		Master thesis, 2021
 	</li><br>
 </ul>
 

@@ -7,6 +7,24 @@ title: Research
 <h2>Journal Publications</h2>
 <ul>
 	<li>
+		<a href="https://ieeexplore.ieee.org/document/10149522"><b>Computationally Efficient Energy Management for a Parallel Hybrid Electric Vehicle Using Adaptive Dynamic Programming</b><br></a>
+		Tong Liu, <b>Kaige Tan</b>, Wenyao Zhu & Lei Feng
+		<i>IEEE Transactions on Industrial Electronics</i>, 2023<br>
+		<a href=""><div class="color-button">cite</div></a><a href=""><div class="color-button">code</div></a>
+	</li><br>
+	<li>
+		<a href="https://ieeexplore.ieee.org/document/10113847"><b>Edge-enabled Adaptive Shape Estimation of 3D Printed Soft Actuators with Gaussian Processes and Unscented Kalman Filters</b><br></a>
+		<b>Kaige Tan</b>, Qinglei Ji, Lei Feng & Martin Törngren<br>
+		<i>IEEE Transactions on Industrial Electronics</i>, 2023<br>
+		<a href=""><div class="color-button">cite</div></a><a href=""><div class="color-button">code</div></a>
+	</li><br>
+	<li>
+		<a href="https://ieeexplore.ieee.org/document/10149832"><b>Reducing the Learning Time of Reinforcement Learning for the Supervisory Control of Discrete Event Systems</b><br></a>
+		Junjun Yang, <b>Kaige Tan</b>, Lei Feng, Ahmed M El-Sherbeeny & Zhiwu, Li<br>
+		<i>IEEE Access</i>, 2023<br>
+		<a href=""><div class="color-button">cite</div></a><a href=""><div class="color-button">code</div></a>
+	</li><br>
+	<li>
 		<a href="https://www.sciencedirect.com/science/article/pii/S0020025523002256?via%3Dihub"><b>A model-based deep reinforcement learning approach to the nonblocking coordination of modular supervisors of discrete event systems</b><br></a>
 		Junjun Yang, <b>Kaige Tan</b>, Lei Feng & Zhiwu, Li<br>
 		<i>Information Sciences</i>, 2023<br>
@@ -59,6 +77,12 @@ title: Research
 <h2>Conference Publications</h2>
 <ul>
 	<li>
+		<a href="https://ras.papercept.net/images/temp/AIM/files/0200.pdf"><b>Optimal and Adaptive Engine Switch Control for a Parallel Hybrid Electric Vehicle Using a Computationally Efficient Actor-Critic Method</b><br></a>
+		Tong Liu, <b>Kaige Tan</b>, Wenyao Zhu & Lei Feng<br>
+		<i>2021 IEEE International Conference on Artificial Intelligence Testing (AITest)</i><br>
+		<a href=""><div class="color-button">report</div></a><a href=""><div class="color-button">code</div></a>
+	</li><br>
+	<li>
 		<a href="https://ieeexplore.ieee.org/document/9926717"><b>A Low-Complexity and High-Performance Energy Management Strategy of a Hybrid Electric Vehicle by Model Approximation</b><br></a>
 		Tong Liu, Wenyao Zhu, <b>Kaige Tan</b>, Mingwei Liu & Lei Feng<br>
 		<i>2022 IEEE 18th International Conference on Automation Science and Engineering (CASE)</i><br>
@@ -83,7 +107,10 @@ title: Research
 
 <h2>Reviewer</h2>
 <ul>
+	<li>IEEE Transactions on Mobile Communications</li>
 	<li>IEEE Transactions on Wireless Communications</li>
 	<li>IEEE Robotics and Automation Letters</li>
+	<li>IEEE Access</li>
+	<li>Robotics and Autonomous Systems</li>
 	<li>The 53rd Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN2023)</li>
 </ul>
