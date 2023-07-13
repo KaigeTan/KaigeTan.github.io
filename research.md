@@ -4,6 +4,8 @@ permalink: /research/
 title: Research
 ---
 
+<b>Please feel free to contact me if you are interested in any of the following works</b>.
+
 <h2>Journal Publications</h2>
 <ul>
 	<li>
