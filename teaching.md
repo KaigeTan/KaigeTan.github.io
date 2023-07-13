@@ -8,7 +8,7 @@ title: Teaching
 <ul>
 	<li>
 		Arvid Bergvall & Pontus Lundman, 
-		<a href="https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1739802&dswid=5671"><b>Construction and Control of a 3-axisAutomated Liquid Sampling UnitUtilizing Hybrid Stepper Motors</b></a>,
+		<a href="https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1739802&dswid=5671"><b>Construction and Control of a 3-axis Automated Liquid Sampling UnitUtilizing Hybrid Stepper Motors</b></a>,
 		Master thesis, 2022
 	</li><br>
 	<li>
