@@ -9,7 +9,7 @@ title: Research
 	<li>
 		<a href="https://ieeexplore.ieee.org/document/10149522"><b>Computationally Efficient Energy Management for a Parallel Hybrid Electric Vehicle Using Adaptive Dynamic Programming</b><br></a>
 		Tong Liu, <b>Kaige Tan</b>, Wenyao Zhu & Lei Feng
-		<i>IEEE Transactions on Industrial Electronics</i>, 2023<br>
+		<i>IEEE Transactions on Intelligent Vehicles</i>, 2023<br>
 	</li><br>
 	<li>
 		<a href="https://ieeexplore.ieee.org/document/10113847"><b>Edge-enabled Adaptive Shape Estimation of 3D Printed Soft Actuators with Gaussian Processes and Unscented Kalman Filters</b><br></a>
