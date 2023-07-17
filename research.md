@@ -70,7 +70,7 @@ title: Research
 	<li>
 		<a href="https://ras.papercept.net/images/temp/AIM/files/0200.pdf"><b>Optimal and Adaptive Engine Switch Control for a Parallel Hybrid Electric Vehicle Using a Computationally Efficient Actor-Critic Method</b><br></a>
 		Tong Liu, <b>Kaige Tan</b>, Wenyao Zhu & Lei Feng<br>
-		<i>2021 IEEE International Conference on Artificial Intelligence Testing (AITest)</i><br>
+		<i>2023 IEEE/ASME 26th International Conference on Advanced Intelligent Mechatronics (AIM)</i><br>
 	</li><br>
 	<li>
 		<a href="https://ieeexplore.ieee.org/document/9926717"><b>A Low-Complexity and High-Performance Energy Management Strategy of a Hybrid Electric Vehicle by Model Approximation</b><br></a>
