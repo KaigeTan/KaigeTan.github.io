@@ -10,7 +10,7 @@ title: Research
 <ul>
 	<li>
 		<a href="https://ieeexplore.ieee.org/document/10149522"><b>Computationally Efficient Energy Management for a Parallel Hybrid Electric Vehicle Using Adaptive Dynamic Programming</b><br></a>
-		Tong Liu, <b>Kaige Tan</b>, Wenyao Zhu & Lei Feng
+		Tong Liu, <b>Kaige Tan</b>, Wenyao Zhu & Lei Feng<br>
 		<i>IEEE Transactions on Intelligent Vehicles</i>, 2023<br>
 	</li><br>
 	<li>
