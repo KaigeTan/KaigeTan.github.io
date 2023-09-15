@@ -95,10 +95,11 @@ title: Research
 
 <h2>Reviewer</h2>
 <ul>
-	<li>IEEE Transactions on Mobile Communications</li>
-	<li>IEEE Transactions on Wireless Communications</li>
 	<li>IEEE Robotics and Automation Letters</li>
+	<li>IEEE Transactions on Wireless Communications</li>
+	<li>The 53rd Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN2023)</li>
+	<li>IEEE Transactions on Mobile Communications</li>
 	<li>IEEE Access</li>
 	<li>Robotics and Autonomous Systems</li>
-	<li>The 53rd Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN2023)</li>
+	<li>Foundations and Trends in Electronic Design Automation</li>
 </ul>
