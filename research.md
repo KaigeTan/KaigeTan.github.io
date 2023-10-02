@@ -68,7 +68,12 @@ title: Research
 <h2>Conference Publications</h2>
 <ul>
 	<li>
-		<a href="https://ras.papercept.net/images/temp/AIM/files/0200.pdf"><b>Optimal and Adaptive Engine Switch Control for a Parallel Hybrid Electric Vehicle Using a Computationally Efficient Actor-Critic Method</b><br></a>
+		<a href="https://ieeexplore.ieee.org/document/10260658"><b>Collaborative Collision Avoidance of Connected Vehicles Using ADMM with PI-Regulated Lagrangian Multipliers</b><br></a>
+		<b>Kaige Tan</b>, Lei Feng & Martin Törngren<br>
+		<i>2023 IEEE 19th International Conference on Automation Science and Engineering (CASE)</i><br>
+	</li><br>
+	<li>
+		<a href="https://ieeexplore.ieee.org/document/10196276"><b>Optimal and Adaptive Engine Switch Control for a Parallel Hybrid Electric Vehicle Using a Computationally Efficient Actor-Critic Method</b><br></a>
 		Tong Liu, <b>Kaige Tan</b>, Wenyao Zhu & Lei Feng<br>
 		<i>2023 IEEE/ASME 26th International Conference on Advanced Intelligent Mechatronics (AIM)</i><br>
 	</li><br>
