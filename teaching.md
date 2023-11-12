@@ -7,6 +7,11 @@ title: Teaching
 <h2>Thesis Supervision</h2>
 <ul>
 	<li>
+		Xuezhi Niu, 
+		<a href="https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1810127&dswid=3239"><b>Optimal Gait Control of Soft Quadruped Robot by Model-based Reinforcement Learning</b></a>,
+		Master thesis, 2023
+	</li><br>
+	<li>
 		Arvid Bergvall & Pontus Lundman, 
 		<a href="https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1739802&dswid=5671"><b>Construction and Control of a 3-axis Automated Liquid Sampling Unit Utilizing Hybrid Stepper Motors</b></a>,
 		Master thesis, 2022
