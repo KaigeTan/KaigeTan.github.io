@@ -108,5 +108,6 @@ title: Research
 	<li>Foundations and Trends in Electronic Design Automation</li>
 	<li>IEEE Access</li>
 	<li>IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)</li>
+	<li>International Conference on Computer Safety, Reliability and Security (SafeComp)</li>
 	<li>NASA Formal Methods Symposium (NFM)</li>
 </ul>
