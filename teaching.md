@@ -7,6 +7,11 @@ title: Teaching
 <h2>Thesis Supervision</h2>
 <ul>
 	<li>
+		Anton Karlén, Kristian Jandric
+		<a href="https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1858143&dswid=7197"><b>Evaluation of Degraded Network Connection on Edge Offloaded Self-Driving Scale Model Car</b></a>,
+		Master thesis, 2023
+	</li><br>
+	<li>
 		Xuezhi Niu, 
 		<a href="https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1810127&dswid=3239"><b>Optimal Gait Control of Soft Quadruped Robot by Model-based Reinforcement Learning</b></a>,
 		Master thesis, 2023
