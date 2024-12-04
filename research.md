@@ -9,6 +9,11 @@ title: Research
 <h2>Journal Publications</h2>
 <ul>
 	<li>
+		<a href="https://doi.org/10.1016/j.asoc.2024.112568"><b>Optimal Gait Design for a Soft Quadruped Robot via Multi-fidelity Bayesian Optimization</b><br></a>
+		<b>Kaige Tan</b>, Xuezhi Niu, Qinglei Ji, Lei Feng & Martin Törngren<br>
+		<i>Applied Soft Computing</i>, 2024<br>
+	</li><br>
+	<li>
 		<a href="https://ieeexplore.ieee.org/document/10149522"><b>Computationally Efficient Energy Management for a Parallel Hybrid Electric Vehicle Using Adaptive Dynamic Programming</b><br></a>
 		Tong Liu, <b>Kaige Tan</b>, Wenyao Zhu & Lei Feng<br>
 		<i>IEEE Transactions on Intelligent Vehicles</i>, 2023<br>
@@ -67,6 +72,11 @@ title: Research
 
 <h2>Conference Publications</h2>
 <ul>
+	<li>
+		<a href="https://link.springer.com/chapter/10.1007/978-3-031-75380-0_22"><b>CommonUppRoad: A Framework of Formal Modelling, Verifying, Learning, and Visualisation of Autonomous Vehicles</b><br></a>
+		<b>Rong Gu, Kaige Tan</b>, Andreas Holck Høeg-Petersen, Lei Feng, Kim Guldstrand Larsen<br>
+		<i>2024 International Symposium on Leveraging Applications of Formal Methods (ISoLA 2024)</i><br>
+	</li><br>
 	<li>
 		<a href="https://ieeexplore.ieee.org/document/10260658"><b>Collaborative Collision Avoidance of Connected Vehicles Using ADMM with PI-Regulated Lagrangian Multipliers</b><br></a>
 		<b>Kaige Tan</b>, Lei Feng & Martin Törngren<br>
