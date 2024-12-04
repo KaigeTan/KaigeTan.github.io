@@ -74,7 +74,7 @@ title: Research
 <ul>
 	<li>
 		<a href="https://link.springer.com/chapter/10.1007/978-3-031-75380-0_22"><b>CommonUppRoad: A Framework of Formal Modelling, Verifying, Learning, and Visualisation of Autonomous Vehicles</b><br></a>
-		<b>Rong Gu, Kaige Tan</b>, Andreas Holck Høeg-Petersen, Lei Feng, Kim Guldstrand Larsen<br>
+		Rong Gu, Kaige Tan</b>, Andreas Holck Høeg-Petersen, Lei Feng, Kim Guldstrand Larsen<br>
 		<i>2024 International Symposium on Leveraging Applications of Formal Methods (ISoLA 2024)</i><br>
 	</li><br>
 	<li>
