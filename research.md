@@ -114,12 +114,15 @@ title: Research
 	<li>Robotics and Autonomous Systems</li>
 	<li>IEEE Transactions on Wireless Communications</li>
 	<li>IEEE Transactions on Mobile Communications</li>
+	<li>IEEE Internet of Things Journal</li>
 	<li>IEEE Transactions on Computers</li>
 	<li>Journal of Cleaner Production</li>
 	<li>Foundations and Trends in Electronic Design Automation</li>
 	<li>IEEE Access</li>
-	<li>IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)</li>
 	<li>IEEE International Conference on Automation Science and Engineering （CASE）</li>
+	<li>IEEE International Conference on Intelligent Transportation Systems (ITSC)</li>
+	<li>European Control Conference (ECC)</li>
+	<li>IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)</li>
 	<li>International Conference on Computer Safety, Reliability and Security (SafeComp)</li>
 	<li>NASA Formal Methods Symposium (NFM)</li>
 </ul>
