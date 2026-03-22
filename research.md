@@ -1,13 +1,18 @@
 ---
 layout: page
 permalink: /research/
-title: Research
+title: Work & Publications
 ---
 
-<b>Please feel free to contact me if you are interested in any of the following works</b>.
+<b>Please feel free to contact me if you are interested in any of the following works or would like to discuss my professional experience</b>.
 
 <h2>Journal Publications</h2>
 <ul>
+	<li>
+		<a href="https://www.mdpi.com/2075-1702/13/7/559"><b>Nonblocking Modular Supervisory Control of Discrete Event Systems via Reinforcement Learning and K-Means Clustering</b><br></a>
+		Junjun Yang, <b>Kaige Tan</b>, Lei Feng<br>
+		<i>Machines</i>, 2025<br>
+	</li><br>
 	<li>
 		<a href="https://doi.org/10.1016/j.asoc.2024.112568"><b>Optimal Gait Design for a Soft Quadruped Robot via Multi-fidelity Bayesian Optimization</b><br></a>
 		<b>Kaige Tan</b>, Xuezhi Niu, Qinglei Ji, Lei Feng & Martin Törngren<br>
@@ -73,8 +78,18 @@ title: Research
 <h2>Conference Publications</h2>
 <ul>
 	<li>
+		<a href="https://ieeexplore.ieee.org/abstract/document/11128611"><b>Optimal Gait Control for a Tendon-driven Soft Quadruped Robot by Model-based Reinforcement Learning</b><br></a>
+		Xuezhi Niu*, <b>Kaige Tan</b>*, Didem Gürdür Broo, Lei Feng<br>
+		<i>2025 IEEE International Conference on Robotics and Automation (ICRA)</i><br>
+	</li><br>
+	<li>
+		<a href="https://ieeexplore.ieee.org/abstract/document/11187133"><b>Towards Mitigating Communication Latency Influence in Connected Vehicle Networks by Stochastic Decentralized Model Predictive Control</b><br></a>
+		Tong Zhao*, <b>Kaige Tan</b>*, Lei Feng<br>
+		<i>2025 European Control Conference (ECC)</i><br>
+	</li><br>
+	<li>
 		<a href="https://link.springer.com/chapter/10.1007/978-3-031-75380-0_22"><b>CommonUppRoad: A Framework of Formal Modelling, Verifying, Learning, and Visualisation of Autonomous Vehicles</b><br></a>
-		Rong Gu, Kaige Tan</b>, Andreas Holck Høeg-Petersen, Lei Feng, Kim Guldstrand Larsen<br>
+		Rong Gu, <b>Kaige Tan</b>, Andreas Holck Høeg-Petersen, Lei Feng, Kim Guldstrand Larsen<br>
 		<i>2024 International Symposium on Leveraging Applications of Formal Methods (ISoLA 2024)</i><br>
 	</li><br>
 	<li>
@@ -102,27 +117,13 @@ title: Research
 <h2>Theses</h2>
 <ul>
 	<li>
-		<a href="https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1371198&dswid=-699"><b>Building verification database and extracting critical scenarios for self-driving car testing on virtual platform</b><br></a>
+		<a href="https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1942893&dswid=4592"><b>Optimal Control and Coordination of Autonomous Intelligent Systems by Edge Computing</b><br></a>
+		<b>Kaige Tan</b><br>
+		<i>Ph.D. Thesis, KTH Royal Institute of Technology, Stockholm, Sweden</i>, 2025<br>
+	</li><br>
+	<li>
+		<a href="https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1371198&dswid=-699"><b>Building Verification Database and Extracting Critical Scenarios for Self-driving Car Testing on Virtual Platform</b><br></a>
 		<b>Kaige Tan</b><br>
 		<i>M.Sc. Thesis, KTH Royal Institute of Technology, Stockholm, Sweden</i>, 2019<br>
 	</li><br>
-</ul>
-
-<h2>Reviewer</h2>
-<ul>
-	<li>IEEE Robotics and Automation Letters</li>
-	<li>Robotics and Autonomous Systems</li>
-	<li>IEEE Transactions on Wireless Communications</li>
-	<li>IEEE Transactions on Mobile Communications</li>
-	<li>IEEE Internet of Things Journal</li>
-	<li>IEEE Transactions on Computers</li>
-	<li>Journal of Cleaner Production</li>
-	<li>Foundations and Trends in Electronic Design Automation</li>
-	<li>IEEE Access</li>
-	<li>IEEE International Conference on Automation Science and Engineering （CASE）</li>
-	<li>IEEE International Conference on Intelligent Transportation Systems (ITSC)</li>
-	<li>European Control Conference (ECC)</li>
-	<li>IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)</li>
-	<li>International Conference on Computer Safety, Reliability and Security (SafeComp)</li>
-	<li>NASA Formal Methods Symposium (NFM)</li>
 </ul>

@@ -6,10 +6,8 @@ permalink: /aboutme/
 
 {% include image.html url="/images/Kaige_Tan.jpg" caption="" width=140 align="right" %}
 
-I received my B.Eng. in Mechatronics Engineering from the School of Mechatronics Engineering, Harbin Institute of Technology (HIT), Harbin, China, in 2018, and my M.Sc. in Mechatronics from the Department of Machine Design, Royal Institute of Technology (KTH), Stockholm, Sweden, in 2019, through 3+2 program.
+I am a Data Scientist at <a href="https://www.weirdigital.com/">Weir Digital Mineral</a> in Stockholm, Sweden, developing machine learning solutions for mineral processing and optimization. I hold a Ph.D. in Mechatronics and Embedded Control Systems from the Royal Institute of Technology (KTH), Sweden (2025), an M.Sc. in Mechatronics from KTH (2019), and a B.Eng. in Mechatronics Engineering from Harbin Institute of Technology (HIT), China (2018).
 
-During September 2019 - October 2020, I worked as a model-in-the-loop engineer in ETAS, Robert Bosch GmbH, Shanghai, China.
+I have professional experience in embedded systems, model-based control, optimization algorithms, and machine learning. Previously, I worked at Robert Bosch GmbH (ETAS) as an MIL engineer and contributed to research on autonomous systems, edge computing, and soft robotics.
 
-Since December 2020, I am working towards my Ph.D. degree in the Unit of Mechatronics and Embedded Control Systems, KTH, under spervision of Prof. Lei Feng.
-
-My research insterests include convex optimization, reinforcement learning, and optimal filtering.
+My expertise includes machine learning, control systems, optimization, data analytics, and edge computing applications in industrial and autonomous systems.

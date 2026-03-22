@@ -1,13 +1,23 @@
 ---
 layout: page
-permalink: /teaching/
-title: Teaching
+permalink: /services/
+title: Academic services
 ---
 
 <h2>Thesis Supervision</h2>
 <ul>
 	<li>
-		Anton Karlén, Kristian Jandric
+		Oskar Öman,
+		<a href="https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A2015903&dswid=2966"><b>Investigation of multi-segmented design for soft grippers</b></a>,
+		Master thesis, 2025
+	</li><br>
+	<li>
+		Tong Zhao,
+		<a href="https://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A2039249&dswid=-3064"><b>A Distributed Chance-Constrained MPC Algorithm for Collision Avoidance of CAVs under Stochastic Network Delays in V2V Communication</b></a>,
+		Master thesis, 2024
+	</li><br>
+	<li>
+		Anton Karlén, Kristian Jandric,
 		<a href="https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1858143&dswid=7197"><b>Evaluation of Degraded Network Connection on Edge Offloaded Self-Driving Scale Model Car</b></a>,
 		Master thesis, 2023
 	</li><br>
@@ -53,4 +63,23 @@ title: Teaching
 	<li><a href="https://www.kth.se/student/kurser/kurs/MF2030?l=en"><b>MF2030 Mechatronics Basic Course</b></a></li>
 	<li><a href="https://www.kth.se/student/kurser/kurs/MF2007?l=en"><b>MF2007 Dynamics and Motion Control</b></a></li>
 	<li><a href="https://www.kth.se/student/kurser/kurs/MF2103?l=en"><b>MF2103 Embedded Systems for Mechatronics</b></a></li>
+</ul>
+
+<h2>Reviewer</h2>
+<ul>
+	<li>IEEE Robotics and Automation Letters</li>
+	<li>Robotics and Autonomous Systems</li>
+	<li>IEEE Transactions on Wireless Communications</li>
+	<li>IEEE Transactions on Mobile Communications</li>
+	<li>IEEE Internet of Things Journal</li>
+	<li>IEEE Transactions on Computers</li>
+	<li>Journal of Cleaner Production</li>
+	<li>Foundations and Trends in Electronic Design Automation</li>
+	<li>IEEE Access</li>
+	<li>IEEE International Conference on Automation Science and Engineering （CASE）</li>
+	<li>IEEE International Conference on Intelligent Transportation Systems (ITSC)</li>
+	<li>European Control Conference (ECC)</li>
+	<li>IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)</li>
+	<li>International Conference on Computer Safety, Reliability and Security (SafeComp)</li>
+	<li>NASA Formal Methods Symposium (NFM)</li>
 </ul>
