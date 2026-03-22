@@ -2,9 +2,7 @@
 title: Kaige Tan
 email: edwin_tan@outlook.com
 
-description: > # this means to ignore newlines until "baseurl:"
-  Industrial AI | RL/ML | Intelligent Control Systems
-  Weir Digital Mineral, Malmö, Sweden
+description: "Industrial AI | RL/ML | Intelligent Control Systems<br>Weir Digital Mineral, Malmö, Sweden"
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 
